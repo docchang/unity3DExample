@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/spaceCar.js">
+    <Files>
+      <File FileName="Assets/NewScript.js" Line="1" Column="1" />
+      <File FileName="Assets/NewBehaviourScript.js" Line="6" Column="2" />
+      <File FileName="Assets/cubeAI.js" Line="37" Column="1" />
+      <File FileName="Assets/spaceCar.js" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
